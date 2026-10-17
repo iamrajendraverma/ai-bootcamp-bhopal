@@ -1,0 +1,7 @@
+{
+  "name": "Atelier Vauquelin — Interior Architecture & Spatial Design",
+  "description": "Quiet spaces sculpted in shadow, stone, and natural light. Interior architecture atelier based in Paris, Tokyo, and Zurich.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
